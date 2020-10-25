@@ -1,0 +1,3 @@
+<?php
+
+htmlMarking::topDoctype('Вход');
